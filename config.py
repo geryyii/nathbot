@@ -38,7 +38,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 PMPERMIT_PIC = getenv("PMPERMIT_PIC", None)
 REPO_URL = getenv(
-    "REPO_URL", "https://www.google.com/m?hl=in-ID&ie=UTF-8&source=android-browser&q=r&client=ms-android-vivo-rvo2"
+    "REPO_URL", "https://github.com/mrismanaziz/PyroMan-Userbot"
     b64decode("aHR0cHM6Ly9naXRodWIuY29tL3Byb2plY3RtNG4vUHlyb01hbg==").decode("utf-8"),
 )
 STRING_SESSION1 = getenv("STRING_SESSION1", "1BVtsOKEBuxVh9UFkRQNLZuJLSqeqybhP2WZSF2q6Iq8NJ-JaBVGUCgO4LbZ_0cR-MZ96-OQ36On-z1Z0Mv0p-eBw1gmaoZxfGF6gOoVJxquTagjZX24B7X8damHdCr0pXdr9rFICkcEUcSSKDNigN5Lnh-1hSXyAfdWcIYG2s7YOsM1wC8xV3Ddb0ZlZB0-BEwxdqcDbKTn0hlewMFh7kh6brDWqcXPOMDNsGMQ98lMRpak_dn9Rd9dLMe-v7RHNw-uecSZRWZodtcpH13LuvCJW0KjRY8ubZ3piqRn4Pd8zltkMAkmH3ins_ADOmx5VAMZvL56dpQ704SppMsknQYDW6q1OFyY=")
